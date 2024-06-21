@@ -35,6 +35,10 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"@sveltejs/adapter-static": "^3.0.2"
+		"@ffmpeg/ffmpeg": "^0.12.10",
+		"@ffmpeg/util": "^0.12.1",
+		"@fontsource/roboto": "^5.0.13",
+		"@sveltejs/adapter-static": "^3.0.2",
+		"svelte-hero-icons": "^5.1.0"
 	}
 }
